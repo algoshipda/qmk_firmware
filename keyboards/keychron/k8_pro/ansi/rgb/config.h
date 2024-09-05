@@ -58,9 +58,9 @@
 
 // Right-hand home row mods
 #define HOME_J RSFT_T(KC_J)
-#define HOME_K RGUI_T(KC_K)
+#define HOME_K LGUI_T(KC_K)
 #define HOME_L LALT_T(KC_L)
-#define HOME_SCLN RCTL_T(KC_SCLN)
+#define HOME_SCLN LCTL_T(KC_SCLN)
 
 #undef PERMISSIVE_HOLD
 #undef HOLD_ON_OTHER_KEY_PRESS
